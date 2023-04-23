@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NNALOL
+- 👋 Hi, I’m @NALOL
 - 👀 I’m interested in STM32、ZYNQ
 - 🌱 I’m currently learning STM32、ESP32、RaspberryPi
 - 💞️ I’m looking to collaborate on ...
