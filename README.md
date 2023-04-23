@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NNALOL
 - 👀 I’m interested in STM32、ZYNQ
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning STM32、ESP32、RaspberryPi
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ：2548319148@qq.com
 
 <!---
 NNALOL/NNALOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
